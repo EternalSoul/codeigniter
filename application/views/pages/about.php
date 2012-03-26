@@ -1,0 +1,1 @@
+This is a test file called <i>about.php</i> located in <i>/views/pages/</i>

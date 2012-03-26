@@ -1,0 +1,1 @@
+News are added successfully!
